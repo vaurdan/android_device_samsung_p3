@@ -1,3 +1,5 @@
+#!/bin/sh
+
 VENDOR=samsung
 DEVICE=p3
 OUTDIR=vendor/$VENDOR/$DEVICE
@@ -77,3 +79,4 @@ EOF
 
 USE_CAMERA_STUB := false
 EOF
+
